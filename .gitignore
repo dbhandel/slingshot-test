@@ -6,4 +6,3 @@ node_modules/
 selenium
 .idea/
 aws.json
-tmp/
